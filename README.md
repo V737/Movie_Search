@@ -4,7 +4,7 @@ This is a Movie App built in ReactJS. It uses open [The Movie Database (TMDb) AP
   Clone the repo: https://github.com/V737/Movie_Search.git
     cd movies_search
   Install packages: npm install
-  Build project and launch: np start
+  Build project and launch: npm start
   Open your browser at: http://localhost:3000/
 
 
